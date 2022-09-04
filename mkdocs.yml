@@ -1,0 +1,15 @@
+site_name: VShop Docs
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  palette:
+    scheme: slate
+    primary: red
+copyright: Copyright &copy; 2022 VShop
+extra:
+  homepage: https://vshop.one
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://vshop.one/discord
+  generator: false
