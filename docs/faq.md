@@ -2,7 +2,7 @@
 
 ## Where can I download the app?
 
-Downloads are for available for [Android](https://play.google.com/store/apps/details?id=dev.vasc.vshop) and [IOS](https://apps.apple.com/us/app/vshop-for-valorant/id1636765187).
+Downloads are available for [Android](https://play.google.com/store/apps/details?id=dev.vasc.vshop) and [IOS](https://apps.apple.com/us/app/vshop-for-valorant/id1636765187).
 
 ## Why can't I see my shop in the browser anymore?
 
