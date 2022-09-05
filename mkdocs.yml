@@ -13,3 +13,10 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://vshop.one/discord
   generator: false
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
