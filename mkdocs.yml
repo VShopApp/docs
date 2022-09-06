@@ -1,11 +1,25 @@
 site_name: VShop Docs
+repo_url: https://github.com/VShopApp/docs
 theme:
   name: material
   logo: assets/logo.png
   favicon: assets/logo.png
   palette:
-    scheme: slate
-    primary: red
+    # primary: red
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 copyright: Copyright &copy; 2022 VShop
 extra:
   homepage: https://vshop.one
