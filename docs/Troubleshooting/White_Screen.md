@@ -5,7 +5,7 @@ Please check that you have the newest update of the V-Shop app.
 
 ## "Access Denied"
 It could be that Riot Games' Cloudflare proxy has interfered, but does not display an error message. 
-Try the [Access Denied](https://vshop.one/Troubleshooting/Access_Denied/) fix anyway.
+Try the [Access Denied](https://docs.vshop.one/Troubleshooting/Access_Denied/) fix anyway.
 
 ## Delete app cache & storage 
 If the problem persists, please remove all app content through your operating system.
