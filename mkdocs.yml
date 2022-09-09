@@ -1,6 +1,7 @@
 site_name: VShop Docs
 repo_url: https://github.com/VShopApp/docs
 theme:
+  language: en 
   name: material
   logo: assets/logo.png
   favicon: assets/logo.png
@@ -32,5 +33,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: true
+  - attr_list
+  - md_in_html
+pymdownx.tasklist:
+  custom_checkbox: true
