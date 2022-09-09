@@ -1,4 +1,4 @@
-![banner](/assets/vshop_banner.png){ width="800" }
+![banner](/docs/assets/vshop_banner.png)
 
 # VShop Docs 📄
 Built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
