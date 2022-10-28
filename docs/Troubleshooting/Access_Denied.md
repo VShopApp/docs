@@ -1,6 +1,6 @@
 You receive an "Access Denied - Error code: 1020" message after you log in.  
 
-![Hanuta](/assets/access_denied.png){ width="300" }
+![Screenshot from the Cloudflare_Access_Denied error message](/assets/access_denied.png){ width="300" }
 
 
 ## Check version
