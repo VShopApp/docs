@@ -6,13 +6,12 @@ The app loads infinitely. Even after a waiting time of 2 minutes & few attempts.
 Please check that you have the newest update of the V-Shop app.
 
 ## Check your internet connection
-You need an active internet connection. One reason for a long loading time could be bad signal or internet speed. Check your Internet connection. If possible, try another network.
+Ensure that you have an active internet connection. A slow or poor internet connection could be one of the reasons for a long loading time. Try using a different network connection if possible.
 
 ## Try another language
-Please try to change the language in the app. You can change the language under "Settings" in the menu.
+Try changing the language in the app. You can do this under "Settings" in the menu.
 
 ## Delete app cache & storage 
-If the problem remains, please remove all app content through your operating system.
-On Android, [try this guide](https://www.techadvisor.com/article/739613/how-to-clear-app-cache-on-android.html). On iOS, it is mandatory to reinstall the app.
+Delete the cache and storage of the app. If the problem persists, please remove all app content through your operating system. On Android devices, you can follow [this guide](https://www.techadvisor.com/article/739613/how-to-clear-app-cache-on-android.html). On iOS, it is mandatory to reinstall the app.
 
 If the problem still exists, please contact us on our [Discord](https://vshop.one/discord/).
