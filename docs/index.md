@@ -1,6 +1,6 @@
 # Welcome
 
-!!! VShop suspended from Google Play Store
+!!! danger "VShop suspended from Google Play Store"
 
     VShop has been suspended from the Google Play Store due to copyright infringement, which most likely relates to the skin images and videos in the app. If the app is already installed, it should work almost as intended, except for the donation feature, which relies on the Google Play Store. However, if you have already made a donation, your perks should still be available. We apologize for any inconvenience caused and will do our best to resolve the situation.
 
