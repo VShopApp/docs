@@ -8,7 +8,8 @@ Please check that you have the newest update of the V-Shop app.
 
 ## Check DNS & VPN settings
 **The following should be disabled:**<br/>
-- Public DNS (like Cloudflare 1.1.1.1) also apps like Cloudflare WARP<br/>
+
+- Public DNS (like Cloudflare 1.1.1.1) also apps like Cloudflare WARP
 - VPN (of all public services, like NordVPN)
 
 VPN should always be disabled, because Cloudflare detects them most of the time.<br/>
