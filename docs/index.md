@@ -2,7 +2,7 @@
 
 !!! danger "Login Issue Resolved: Download Updated Version"
 
-    There is currently an issue that prevents login for all users. However, we have resolved this problem and you can now download the fixed version of the app from the new [Play Store link](https://play.google.com/store/apps/details?id=dev.vasc.vshop2) We apologize for any inconvenience this may have caused.
+    There is currently an issue that prevents login for all users. However, we have resolved this problem and you can now download the fixed version of the app from the new [Play Store link](https://play.google.com/store/apps/details?id=dev.vasc.vshop2). We apologize for any inconvenience this may have caused.
 
     For iOS users, you can participate in the beta version of VShop by joining through [TestFlight](https://testflight.apple.com/join/BeOIXqDR). Please note that the public update for the app store is currently under review by Apple, and we are unable to provide an exact timeframe for when the update will be approved.
 
