@@ -2,7 +2,9 @@
 
 !!! danger "VShop suspended from Google Play Store"
 
-    VShop has been suspended from the Google Play Store due to copyright infringement, which most likely relates to the skin images and videos in the app. If the app is already installed, it should work almost as intended, except for the donation feature, which relies on the Google Play Store. However, if you have already made a donation, your perks should still be available. We apologize for any inconvenience caused and will do our best to resolve the situation.
+    We are currently experiencing a login issue that is affecting all users of VShop. However, we have resolved this problem and you can now download the fixed version of the app from the new [Play Store link](https://play.google.com/store/apps/details?id=dev.vasc.vshop2) We apologize for any inconvenience this may have caused.
+
+    For iOS users, you can participate in the beta version of VShop by joining through [TestFlight](https://testflight.apple.com/join/BeOIXqDR). Please note that the public update for the app store is currently under review by Apple, and we are unable to provide an exact timeframe for when the update will be approved.
 
     For updates and more information regarding the situation, please refer to our [Discord server](https://vshop.one/discord).
 
