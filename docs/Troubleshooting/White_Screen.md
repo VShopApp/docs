@@ -1,10 +1,10 @@
 Your app is (completely) white. You only have an X button in the top left corner.
 
 ## Check version
-Please check that you have the newest update of the V-Shop app.
+Please check that you have the newest update of VShop.
 
 ## "Access Denied"
-It could be that Riot Games' Cloudflare proxy has interfered, but does not display an error message. 
+It could be that Riot Games Cloudflare proxy has interfered, but does not display an error message. 
 Try the [Access Denied](https://docs.vshop.one/Troubleshooting/Access_Denied/) fix anyway.
 
 ## Delete app cache & storage 
