@@ -3,7 +3,7 @@
     Please download the app from official sources only. Third-party stores can be malicious.
 
 ## Is VShop safe?
-VShop is secure. We do not process or collect any account data. When you log in, we use a specific cookie string that makes it possible to request an API (Application Programming Interface) and get all the data about your store. No passwords are transmitted & stored.
+VShop is secure. We do not process or collect any account data. When you launch the app, it displays a web view of the official Riot Games login page. Once you click login, we get your authorization token and use it to securely authenticate requests to the official API (Application Programming Interface) to, among other things, fetch your shop just like the game would. No credentials are transmitted to us or stored. In addition, the code is completely open source, so you can take a look for yourself if you like: <https://github.com/VShopApp/mobile/>.
 
 ## Can I be banned if I use VShop?
 
