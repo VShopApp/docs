@@ -22,7 +22,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-copyright: Copyright &copy; 2022 VShop
+copyright: Copyright &copy; 2024 VShop
 extra:
   homepage: https://vshop.one
   social:
