@@ -4,7 +4,7 @@ You receive an "Access Denied - Error code: 1020" message after you log in.
 
 
 ## Check version
-Please check that you have the newest update of V-Shop.
+Please check that you have the newest update of VShop.
 
 ## Check DNS & VPN settings
 **The following should be disabled:**<br/>
