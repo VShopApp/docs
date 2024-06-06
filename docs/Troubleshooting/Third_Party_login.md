@@ -1,4 +1,4 @@
-## "Login with Facebook, Google, Apple doesn't work"
+## Login with Facebook, Google, Apple doesn't work
 Unfortunately, we cannot offer a login with third-party services at the current time. This is technically not possible. 
 Login via Facebook, Google and Apple account is therefore not possible. 
 
