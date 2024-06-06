@@ -4,7 +4,7 @@
 
     Effective immediately (June 2023), **VShop will no longer be available on the Google Play Store or Apple App Store**. This decision was made due to persistent legal threats from Riot Games and complaints about the app, including those filed with Apple and concerning the VShop website.
 
-    For more information regarding this situation, please refer to [Discord server](https://docs.vshop.one/distribution-update). 
+    For more information regarding this situation, please refer to [this site](https://docs.vshop.one/distribution-update). 
     The Discord server will continue to operate as usual.
 
 ![banner](/assets/vshop_banner.png){ width="800" }
