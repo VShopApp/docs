@@ -1,12 +1,11 @@
 # Welcome
 
-!!! danger "Login Issue Resolved: Download Updated Version"
+!!! danger "VShop Development Update"
 
-    There is currently an issue that prevents login for all users. However, we have resolved this problem and you can now download the fixed version of the app from the new [Play Store link](https://play.google.com/store/apps/details?id=dev.vasc.vshop2). We apologize for any inconvenience this may have caused.
+    Effective immediately (June 2023), **VShop will no longer be available on the Google Play Store or Apple App Store**. This decision was made due to persistent legal threats from Riot Games and complaints about the app, including those filed with Apple and concerning the VShop website.
 
-    For iOS users, you can participate in the beta version of VShop by joining through [TestFlight](https://testflight.apple.com/join/BeOIXqDR). Please note that the public update for the app store is currently under review by Apple, and we are unable to provide an exact timeframe for when the update will be approved.
-
-    For updates and more information regarding the situation, please refer to our [Discord server](https://vshop.one/discord).
+    For more information regarding this situation, please refer to [Discord server](https://docs.vshop.one/distribution-update). 
+    The Discord server will continue to operate as usual.
 
 ![banner](/assets/vshop_banner.png){ width="800" }
 
