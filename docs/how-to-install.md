@@ -38,7 +38,7 @@ VShop is no longer available on the Google Play Store. To install VShop on your 
 
 3. Open the downloaded APK file and follow the prompts to install it.
 
-??? Permission issues with Android?
+??? info "Permission issues with Android?"
     **For Android 8.0 (Oreo) and Later:**
 
     1. Open **Settings**.
