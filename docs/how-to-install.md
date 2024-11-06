@@ -38,7 +38,7 @@ VShop is no longer available on the Google Play Store. To install VShop on your 
 
 3. Open the downloaded APK file and follow the prompts to install it.
 
-??? note
+??? Permission issues with Android?
     **For Android 8.0 (Oreo) and Later:**
 
     1. Open **Settings**.
@@ -49,15 +49,6 @@ VShop is no longer available on the Google Play Store. To install VShop on your 
     6. Select the browser you used to download the app (e.g., Chrome).
     7. Toggle on **Allow from this source**.
 
-    **For Android 7.0 (Nougat) and Earlier:**
-
-    1. Open **Settings**.
-    2. Scroll down to **Security**.
-    3. Enable **Unknown sources**.
-    4. Confirm the prompt by tapping **OK**.
-
     **Note:** Some manufacturers may disable the option to install apps from unknown sources entirely. If you cannot find the settings mentioned above, your device might have this restriction. In such cases, consult your device's user manual or contact the manufacturer's support for guidance.
-
-    **Caution:** Always exercise caution when installing apps from unknown sources, as they can pose security risks. Ensure that the app is from a trusted developer and source before proceeding.
 
 
