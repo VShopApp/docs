@@ -28,7 +28,6 @@ extra:
   social:
     - icon: fontawesome/brands/discord
       link: https://vshop.one/discord
-      text: "Last updated on {date}"
   generator: false
 markdown_extensions:
   - admonition
