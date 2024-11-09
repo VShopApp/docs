@@ -12,7 +12,7 @@ Since VShop is no longer available on the Apple App Store due to legal issues wi
 
 2. **Download the VShop IPA:** Go to the [VShop GitHub Releases page](https://github.com/VShopApp/mobile/releases) and download the latest VShop IPA file.
 
-#### Installation on Android
+#### Installation on iOS
 
 1. Open Sideloadly or AltStore on your computer. 
 
