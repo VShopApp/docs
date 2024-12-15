@@ -6,7 +6,7 @@
 VShop is secure. We do not process or collect any account data. When you launch the app, it displays a web view of the official Riot Games login page. Once you click login, we get your authorization token and use it to securely authenticate requests to the official API (Application Programming Interface) to, among other things, fetch your shop just like the game would. No credentials are transmitted to us or stored. In addition, the code is completely open source, so you can take a look for yourself if you like: <https://github.com/VShopApp/mobile/>.
 
 ## Why is VShop sometimes not accessible and only after an update?
-Valorant and Riot Games are constantly making changes to their server and security structure. If Riot Games makes a change, we may need to make certain changes to our app code. We will try to implement these changes as soon as possible. We will inform you on our [Discord](https://discord.com/invite/vshop) if something like this happens.
+Valorant and Riot Games are constantly making changes to their server and security structure. If Riot Games makes a change, we may need to make certain changes to our app code. We will try to implement these changes as soon as possible. We will inform you on our [Discord](https://vshop.one/discord) if something like this happens.
 
 ## Can I be banned if I use VShop?
 
