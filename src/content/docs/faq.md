@@ -3,8 +3,6 @@ title: FAQ
 description: Frequently asked questions, answered.
 ---
 
-# FAQ
-
 ## Where can I download the app?
 
 See [this site](https://docs.vshop.one/how-to-install) for more information.

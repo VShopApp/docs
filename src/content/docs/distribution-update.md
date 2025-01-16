@@ -2,9 +2,6 @@
 title: Distribution Update
 description: Distribution Update
 ---
-
-# ⚠️ Distribution Update
-
 Dear VShop community,
 I've decided to stop distributing VShop through the Google Play Store and the Apple App Store effective immediately. This is a difficult decision to make, but Riot Games won't stop sending me emails and threatening me with legal action. Last week (June 2023) they sent a complaint to Apple and today I received a complaint about the website. I also talked to a guy who actually talked to a MARQVISION employee and was told that they don't plan to stop and will shut down apps in the future, so it's only a matter of time before the Google Play Store app will be shut down again, so I'm going to do it before they do.
 

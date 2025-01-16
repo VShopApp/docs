@@ -1,13 +1,13 @@
 ---
 title: How To Install
 description: How to install VShop on your phone
+sidebar:
+  order: 1
 ---
-
-# How to Install VShop?
 
 You can find all Android and iOS releases for VShop here: [VShop Releases on GitHub](https://github.com/VShopApp/mobile/releases)
 
-## iOS Installation
+## iOS
 
 Since VShop is no longer available on the Apple App Store due to legal issues with Riot Games, you’ll need to install it manually using a third-party tool like Sideloadly or AltStore. Below are the steps to install VShop on your iPhone. You'll need a computer for that.
 
@@ -31,7 +31,7 @@ Since VShop is no longer available on the Apple App Store due to legal issues wi
     Be cautious of any apps on the App Store that look similar to VShop. VShop is no longer officially available through the Apple App Store.
     Installing VShop on your iPhone is done at your own risk. Neither the developer nor the VShop community will be liable for any damages that may occur as a result of installing or using the app. This includes, but is not limited to, data loss or device malfunction. The use of third-party tools like AltStore for app installation is beyond the control of the developer and is undertaken at the user's own responsibility.
 
-## Android Installation
+## Android
 
 VShop is no longer available on the Google Play Store. To install VShop on your Android device, you need to download the APK file from the GitHub repository.
 
