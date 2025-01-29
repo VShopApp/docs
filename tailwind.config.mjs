@@ -1,7 +1,7 @@
 import starlightPlugin from "@astrojs/starlight-tailwind";
 
 const accent = {
-  200: "#f4b6b4",
+  200: "#fc4454",
   600: "#ca0030",
   900: "#5e1118",
   950: "#401214",

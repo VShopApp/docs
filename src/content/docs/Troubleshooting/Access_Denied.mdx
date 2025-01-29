@@ -13,35 +13,38 @@ import { Steps } from "@astrojs/starlight/components";
 
 You receive an `Access Denied - Error code: 1020` message after you log in.
 
-This has nothing to do with VShop, but is due to Riotgames who use the security service Cloudflare for the login page we have integrated to protect themselves against bot attacks. Unfortunately, this also blocks many requests from VPN services or public DNS servers.
+This has nothing to do with VShop, but is due to Riot Games who use the security service [Cloudflare](https://www.cloudflare.com/learning/what-is-cloudflare/) for the login page we have integrated to protect themselves against bot attacks. Unfortunately, this also blocks many requests from VPN services or public DNS servers.
 
 <br />
 <br />
 <br />
 
 <Steps>
-1. **Check version**
-    
-    Please check that you have the newest update of VShop.
+1. **Check for Updates**
 
-2. **Check DNS & VPN settings**
+   To ensure optimal performance and stability, make sure you have the latest version of VShop installed. You can find the newest version on [GitHub](https://github.com/VShopApp/mobile/releases).
 
-   The following should be disabled:
+2. **Test Riot Games Authentication**
 
-   - Public DNS (like Cloudflare 1.1.1.1 or 8.8.8.8) also apps like Cloudflare WARP
-   - VPN (of all public services, like NordVPN)
+   To verify if the issue lies with your Network, open the following URL in your browser:
 
-   VPN should always be disabled, because Cloudflare detects them most of the time.<br/>
-   The login could also be blocked in public WLANs by certain policies.
+   👉 [Riot Games Authentication](https://authenticate.riotgames.com/)
 
-3. **Check network (WLAN)**
+3. **Check if Riot Games has issues**
 
-   An active internet connection is required to log in.
+   It is possible that this issue is a global, known problem. Please check if Riot Games has made any official announcements regarding this.
 
-   Certain protocols might be blocked on your network (e.g. guests & school WLAN). Try another network.
+   👉 [Riot Games Status](https://status.riotgames.com/)
 
-   Try the connection with your mobile/cellular network.
+3. **Check DNS and VPN Settings**
 
+   Certain DNS and VPN services can interfere with Riot Games authentication. Make sure to disable the following before proceeding:
+
+   - DNS applications such as **Cloudflare WARP**
+   - VPN services like **NordVPN, ExpressVPN, or similar**
+
+   **VPN connections are often the primary reason for authentication failures. It is strongly recommended to disable any active VPN before attempting to connect.**
 </Steps>
 
-If the problem still exists, please contact us on our [Discord](https://vshop.one/discord/).
+If none of this has helped or your home network is affected by such a blockage, make sure that you have not made any routing or special VPN settings. Some schools and public institutions use specific DNS servers that are blocked by Cloudflare. 
+If you want to resolve this issue, please contact [Riot Games Support](https://support-valorant.riotgames.com/hc/de/requests/new?ticket_form_id=360003209713). Unfortunately, we cannot help you with this.
