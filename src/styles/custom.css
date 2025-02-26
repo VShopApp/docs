@@ -1,0 +1,26 @@
+/* Style the Markdown heading links. */
+.sl-markdown-content :is(h1, h2, h3, h4, h5, h6) > a {
+  color: var(--sl-color-white);
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.social-icons > a {
+  color: white;
+}
+
+.site-title > img {
+  width: 30px;
+  height: 30px;
+}
+
+[data-theme="dark"] .site-title > span {
+  color: white;
+}
+
+[data-theme="light"] .site-title > span {
+  color: black;
+}
