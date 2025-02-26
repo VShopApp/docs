@@ -25,6 +25,16 @@ export default defineConfig({
       editLink: {
         baseUrl: "https://github.com/vshopapp/docs/edit/main",
       },
+      sidebar: [
+        { slug: "how-to-install" },
+        { slug: "distribution-update" },
+        { slug: "faq" },
+        { slug: "security" },
+        {
+          label: "Troubleshooting",
+          autogenerate: { directory: "troubleshooting" },
+        },
+      ],
       head:
         PLAUSIBLE_URL && PLAUSIBLE_DOMAIN
           ? [
