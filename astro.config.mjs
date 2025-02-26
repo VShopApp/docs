@@ -14,7 +14,7 @@ export default defineConfig({
     starlight({
       title: "VShop Docs",
       customCss: ["./src/styles/tailwind.css", "./src/styles/custom.css"],
-      favicon: "./src/assets/logo-white.svg",
+      favicon: "/favicon.svg",
       logo: {
         dark: "./src/assets/logo-white.svg",
         light: "./src/assets/logo-black.svg",
